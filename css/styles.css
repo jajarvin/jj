@@ -1,0 +1,76 @@
+/*my boxes*/
+.eka, .toka, .kolmas {
+  width: 50px
+  height:50px;
+  background-color: red;
+  border: 1px solid black;
+}
+
+.toka {
+  background-color: blue;
+}
+.kolmas {
+   background-color: yellow;
+}
+.my-tile {
+  /*background-color: #eeceff;*/
+  
+}
+span {
+  font-size: 120%;
+  font-weight: bold;
+   
+}
+.navbar-brand {
+  float: left;
+  height: 90px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+}
+.navbar-header {
+  width: 100%;
+  background-color: #CDE;
+}
+.container {
+  /*
+  background-color: #CDE;
+  */
+  }
+.my_space {
+  
+  margin-top: 20px;
+}
+.my_tile {
+  margin: 2%;
+  background-color: #CDE;
+}
+/*
+.btn {
+  width: 100%;
+}
+*/
+/* MENU CATEGORIES PAGE */
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  /* Home Page */
+/*  .category-tile { 
+    margin-right: 0px;
+    width: 95%;*/
+  /* End Home Page */
+}
+@media (min-width: 768px) {
+  .navbar-header {
+    width: 150%;
+  }
+  #navbar-list .visible-xs {
+
+  }
+.my_color {
+  background-color: #CDE;
+}
+}
+.my_color {
+  background-color: #CDE;
+}
